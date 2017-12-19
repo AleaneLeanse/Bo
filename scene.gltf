@@ -24133,31 +24133,31 @@
   ],
   "images": [
     {
-      "uri": "textures/Cockpit%20texture_baseColor.png"
+      "uri": "baseColor.png"
     },
     {
-      "uri": "textures/Cockpit%20texture_emissive.png"
+      "uri": "emissive.png"
     },
     {
-      "uri": "textures/Cockpit%20texture.001_baseColor.jpg"
+      "uri": "baseColor1.jpg"
     },
     {
-      "uri": "textures/Cockpit%20texture.001_emissive.jpg"
+      "uri": "emissive1.jpg"
     },
     {
-      "uri": "textures/Outsinde%20left_baseColor.png"
+      "uri": "leftBaseColor.png"
     },
     {
-      "uri": "textures/Outside%20Right_baseColor.png"
+      "uri": "rightBaseColor.png"
     },
     {
-      "uri": "textures/Cockpit%20texture.002_baseColor.jpg"
+      "uri": "baseColor2.jpg"
     },
     {
-      "uri": "textures/Cockpit%20texture.002_emissive.jpg"
+      "uri": "emissive2.jpg"
     },
     {
-      "uri": "textures/Material.472_baseColor.png"
+      "uri": "materialBaseColor.png"
     }
   ],
   "materials": [
